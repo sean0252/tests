@@ -1,0 +1,2 @@
+- name: Solaris Virtual Machine
+  uses: mondeja/solaris-vm-action@v1
